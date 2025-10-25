@@ -1,0 +1,12 @@
+
+Car object ...set with setter
+
+Color:red
+Year:2020
+Car Status: Running!
+
+Car1 object ...set with cons
+
+Color:Blue
+Year:2018
+Car Status: Running!
